@@ -1,0 +1,5 @@
+Election Results
+-------------------------
+Total Votes: 0
+{'Charles Casper Stockham': '4827189', 'Diana DeGette': '4894960', 'Raymon Anthony Doane': '4660518'}: 0
+-------------------------
